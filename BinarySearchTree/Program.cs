@@ -6,7 +6,7 @@ namespace BinarySearchTree
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello,Welcome to Binary Search Tree!");
+            Console.WriteLine("Hello, Welcome to Binary Search Tree!");
         }
     }
 }
